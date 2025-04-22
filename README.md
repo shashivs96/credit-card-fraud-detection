@@ -12,7 +12,7 @@ This project aims to detect fraudulent credit card transactions using a supervis
 - Only 49 transactions are labeled as fraud (\~0.42%), making it a highly imbalanced dataset.
 - Features are numerical and result from a PCA transformation, except for `Time` and `Amount`.
 
-## ⚙ Tools & Libraries
+##  Tools & Libraries
 
 - Google Colab (Python)
 - `pandas`, `numpy`
@@ -28,7 +28,7 @@ This project aims to detect fraudulent credit card transactions using a supervis
   - Feature scaling
   - Train-test split before applying SMOTE
 
-## 📈 Evaluation Metrics
+## Evaluation Metrics
 
 - **Confusion Matrix** to visualize prediction results
 - **Precision**, **Recall**, and **F1-score**
@@ -41,6 +41,6 @@ This project aims to detect fraudulent credit card transactions using a supervis
 - Explore real-time fraud detection simulation
 - Hyperparameter tuning for improved performance
 
-## 📌 Disclaimer
+##  Disclaimer
 
 This project is for educational and research purposes only. The dataset is publicly available and fully anonymized.
