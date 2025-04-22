@@ -8,7 +8,6 @@ This project aims to detect fraudulent credit card transactions using a supervis
 
 ## 📊 Dataset
 
-- **Source**: [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - Contains 11665 transactions made by European cardholders in September 2013.
 - Only 49 transactions are labeled as fraud (\~0.42%), making it a highly imbalanced dataset.
 - Features are numerical and result from a PCA transformation, except for `Time` and `Amount`.
